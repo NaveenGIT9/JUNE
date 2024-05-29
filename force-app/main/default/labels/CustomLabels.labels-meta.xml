@@ -7,4 +7,18 @@
         <shortDescription>Alpha</shortDescription>
         <value>Xiaomi</value>
     </labels>
+    <labels>
+        <fullName>DEV1_label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DEV1 label</shortDescription>
+        <value>sriram</value>
+    </labels>
+    <labels>
+        <fullName>Gamma</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Gamma</shortDescription>
+        <value>Vivo</value>
+    </labels>
 </CustomLabels>
