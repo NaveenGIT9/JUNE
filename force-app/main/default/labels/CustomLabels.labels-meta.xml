@@ -49,4 +49,11 @@
         <shortDescription>test</shortDescription>
         <value>testing</value>
     </labels>
+    <labels>
+        <fullName>nook</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test</shortDescription>
+        <value>testing</value>
+    </labels>
 </CustomLabels>
