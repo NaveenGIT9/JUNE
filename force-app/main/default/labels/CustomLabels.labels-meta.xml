@@ -7,4 +7,11 @@
         <shortDescription>Alpha</shortDescription>
         <value>Xiaomi</value>
     </labels>
+    <labels>
+        <fullName>July</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>July label</shortDescription>
+        <value>sri</value>
+    </labels>
 </CustomLabels>
