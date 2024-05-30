@@ -15,6 +15,13 @@
         <value>Samsung</value>
     </labels>
     <labels>
+        <fullName>Cloudfulcrum</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Cloudfulcrum</shortDescription>
+        <value>CF</value>
+    </labels>
+    <labels>
         <fullName>DEV1_label</fullName>
         <language>en_US</language>
         <protected>false</protected>
@@ -44,13 +51,6 @@
     </labels>
     <labels>
         <fullName>test</fullName>
-        <language>en_US</language>
-        <protected>false</protected>
-        <shortDescription>test</shortDescription>
-        <value>testing</value>
-    </labels>
-    <labels>
-        <fullName>nook</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>test</shortDescription>
