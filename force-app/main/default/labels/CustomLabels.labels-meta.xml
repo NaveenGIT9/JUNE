@@ -7,4 +7,46 @@
         <shortDescription>Alpha</shortDescription>
         <value>Xiaomi</value>
     </labels>
+    <labels>
+        <fullName>Beta</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Beta</shortDescription>
+        <value>Samsung</value>
+    </labels>
+    <labels>
+        <fullName>DEV1_label</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DEV1 label</shortDescription>
+        <value>sriram</value>
+    </labels>
+    <labels>
+        <fullName>Gamma</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Gamma</shortDescription>
+        <value>Vivo</value>
+    </labels>
+    <labels>
+        <fullName>JUNE</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>JUNE</shortDescription>
+        <value>NAVIN</value>
+    </labels>
+    <labels>
+        <fullName>July</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>July label</shortDescription>
+        <value>sri</value>
+    </labels>
+    <labels>
+        <fullName>test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>test</shortDescription>
+        <value>testing</value>
+    </labels>
 </CustomLabels>
