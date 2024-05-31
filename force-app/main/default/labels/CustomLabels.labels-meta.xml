@@ -22,11 +22,25 @@
         <value>CF</value>
     </labels>
     <labels>
+        <fullName>Copado</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Copado</shortDescription>
+        <value>devops</value>
+    </labels>
+    <labels>
         <fullName>DEV1_label</fullName>
         <language>en_US</language>
         <protected>false</protected>
         <shortDescription>DEV1 label</shortDescription>
         <value>sriram</value>
+    </labels>
+    <labels>
+        <fullName>DevOps</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>DevOps</shortDescription>
+        <value>copado</value>
     </labels>
     <labels>
         <fullName>Gamma</fullName>
