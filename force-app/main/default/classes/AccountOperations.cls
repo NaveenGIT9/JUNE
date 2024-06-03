@@ -14,4 +14,16 @@ public class AccountOperations {
         return accounts;
     }
     
+    // Method to update the Industry of a specific Account
+    public static void updateAccountIndustry(Id accountId, String newIndustry) {
+        Account acc = [SELECT Id, Industry FROM Account WHERE Id = :accountId LIMIT 1];
+        acc.Industry = newIndustry;
+        update acc;
+    }
+    
+    // Method to delete an Account
+    public static void deleteAccount(Id accountId) {
+        Account acc = [SELECT Id FROM Account WHERE Id = :accountId LIMIT 1];
+        delete acc;
+    }
 }
